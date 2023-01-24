@@ -1,4 +1,5 @@
 # Docker Getting Started Tutorial
+[Docker Geting Started](https://docs.docker.com/get-started)
 
 This tutorial was written with the intent of helping folks get up and running
 with containers and is designed to work with Docker Desktop. While not going too much 
